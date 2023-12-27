@@ -25,9 +25,9 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
   - 
   - 
   - 
@@ -41,9 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: kare
-    uniqueID: 2748495577
+  - name: zemin
+    uniqueID: 2425651459
     locked: 0
-  - name: New Layer 2
-    uniqueID: 1762316669
+  - name: ev ve dekor
+    uniqueID: 4189426099
+    locked: 0
+  - name: karakter
+    uniqueID: 4250941897
+    locked: 0
+  - name: agac
+    uniqueID: 1780955185
     locked: 0
